@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1466440822 source:c:\users\nathália\desktop\arvorebinaria\ab.c
+	<stdio.h>
+	<stdlib.h>
+	"ab.h"
+
+1466440745 c:\users\nathália\desktop\arvorebinaria\ab.h
+
+1466441028 source:c:\users\nathália\desktop\arvorebinaria\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ab.h"
+
+1466453623 source:c:\users\jonathan\documents\eda - chidam\arvorebinaria\ab.c
+	<stdio.h>
+	<stdlib.h>
+	"ab.h"
+
+1466453042 c:\users\jonathan\documents\eda - chidam\arvorebinaria\ab.h
+
+1466453654 source:c:\users\jonathan\documents\eda - chidam\arvorebinaria\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ab.h"
+
+1466454074 source:c:\users\nathália\desktop\arvorebinaria_novo_pah\arvorebinaria\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ab.h"
+
+1466453042 c:\users\nathália\desktop\arvorebinaria_novo_pah\arvorebinaria\ab.h
+
+1466455421 source:c:\users\nathália\desktop\arvorebinaria_novo_pah\arvorebinaria\ab.c
+	<stdio.h>
+	<stdlib.h>
+	"ab.h"
+

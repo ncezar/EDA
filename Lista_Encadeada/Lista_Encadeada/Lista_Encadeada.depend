@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1462918095 source:c:\users\jonathan\documents\eda - chidam\lista_encadeada\lista.c
+	"lista.h"
+
+1462917976 source:c:\users\jonathan\documents\eda - chidam\lista_encadeada\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1462917768 c:\users\jonathan\documents\eda - chidam\lista_encadeada\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1462989443 source:c:\users\udesc\desktop\lista_encadeada\lista.c
+	"lista.h"
+
+1462989434 c:\users\udesc\desktop\lista_encadeada\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1462989461 source:c:\users\udesc\desktop\lista_encadeada\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1462989443 source:c:\users\nathália\desktop\lista_encadeada\lista_encadeada\lista.c
+	"lista.h"
+
+1462989434 c:\users\nathália\desktop\lista_encadeada\lista_encadeada\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1462989461 source:c:\users\nathália\desktop\lista_encadeada\lista_encadeada\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1462989461 source:c:\users\nathália\desktop\udesc 2016\lista_encadeada\lista_encadeada\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1462989434 c:\users\nathália\desktop\udesc 2016\lista_encadeada\lista_encadeada\lista.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

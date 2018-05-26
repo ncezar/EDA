@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1463925353 source:c:\users\nathália\desktop\lista_fila\lista_fila.c
+	"lista_fila.h"
+
+1463925337 c:\users\nathália\desktop\lista_fila\lista_fila.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1463925339 source:c:\users\nathália\desktop\lista_fila\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista_fila.h"
+

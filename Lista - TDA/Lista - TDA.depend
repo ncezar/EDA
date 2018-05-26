@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1461620185 source:c:\users\nathália\desktop\lista - tda\lista.c
+	"lista.h"
+
+1461626988 c:\users\nathália\desktop\lista - tda\lista.h
+
+1461627057 source:c:\users\nathália\desktop\lista - tda\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+

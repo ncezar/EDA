@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1462236612 source:c:\users\nathália\desktop\listaencadeada\lista.c
+	"lista.h"
+
+1462236111 c:\users\nathália\desktop\listaencadeada\lista.h
+
+1462236631 source:c:\users\nathália\desktop\listaencadeada\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1462245359 source:c:\users\jonathan\desktop\listaencadeada\listaencadeada\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1462245368 c:\users\jonathan\desktop\listaencadeada\listaencadeada\lista.h
+
+1462245176 source:c:\users\jonathan\desktop\listaencadeada\listaencadeada\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1462367545 source:c:\users\nathália\desktop\listaencadeada_jonathan\listaencadeada\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1462366949 c:\users\nathália\desktop\listaencadeada_jonathan\listaencadeada\lista.h
+
+1462367298 source:c:\users\nathália\desktop\listaencadeada_jonathan\listaencadeada\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+
+1462401344 source:c:\users\nathália\desktop\listaencadeada\listaencadeada\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1462401311 c:\users\nathália\desktop\listaencadeada\listaencadeada\lista.h
+
+1462401311 source:c:\users\nathália\desktop\listaencadeada\listaencadeada\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+
+1462919730 source:c:\users\nathália\desktop\udesc 2016\listaencadeada\listaencadeada\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1462401311 c:\users\nathália\desktop\udesc 2016\listaencadeada\listaencadeada\lista.h
+
+1462401311 source:c:\users\nathália\desktop\udesc 2016\listaencadeada\listaencadeada\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+

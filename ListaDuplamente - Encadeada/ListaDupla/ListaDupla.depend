@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1463100300 source:c:\users\jonathan\documents\eda - chidam\listadupla\main.c
+	<stdio.h>
+	<stdlib.h>
+	"listadupla.h"
+
+1463099534 c:\users\jonathan\documents\eda - chidam\listadupla\listadupla.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1463100167 source:c:\users\jonathan\documents\eda - chidam\listadupla\listadupla.c
+	"listadupla.h"
+
